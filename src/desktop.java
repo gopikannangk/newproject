@@ -22,6 +22,7 @@ public static void main(String[] args) {
 d.desktopmodel1();
 d.softwareresource();
 d.hardwareresource();
+
 System.out.println(3892);
 System.out.println(3892);
 System.out.println(3892);
@@ -31,5 +32,19 @@ System.out.println(3892);
 System.out.println(3892);
 System.out.println(3892);
 System.out.println(3892);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+System.out.println(379);
+
+
 }
 }

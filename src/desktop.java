@@ -34,7 +34,17 @@ System.out.println(379);
 System.out.println(379);
 System.out.println(379);
 System.out.println(379);
-System.out.println(379);
+System.out.println(45);
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
+System.out.println("gk");
 
 }
 }
